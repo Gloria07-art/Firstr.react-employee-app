@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+.subject{
+  font-weight: bolder;
+  
+  font-family: 'Quicksand', sans-serif;
+  font-size: 40px;
+}
+
+.prof{
+  font-weight: lighter;
+  font-family: 'Quicksand',sans-serif;
+
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 20px;
+  padding: 10rem;
+  background-image: url(./assets/Burst_Lime.webp);
+}
+
+table {
+  border-collapse: collapse;
+  width: 80%;
+  margin-left: 180px;
+  
+}
+
+
+th,
+td {
+  border: 1px solid #cdd2c2;
+  text-align: left;
+  padding: 8px;
+  font-size: 20px;
+  
+  font-family: 'Quicksand',sans-serif;
+}
+
+th {
+  background-color: rgb(111, 119, 30);
+}
+
+td {
+  background-color: rgb(220, 224, 216);
+  font-size: 20px;
+  font-weight: lighter;
+}
+h1 {
+  margin-left: 800px;
+}
+
+.see {width: 15%;
+  margin-left: 180px;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.row {
+  border: 1px solid #cdd2c2;
+  text-align: left;
+  padding: 8px;
+  font-size: 14px;
+  background-color: rgb(220, 224, 216);
+  font-family: 'Quicksand',sans-serif;
+}
+
+ul {
+  text-align: center;
+  margin-bottom: -1%;
+  font-weight: bold;
+
+}
+
+.canva{text-align: center;
+  margin-bottom: -1%;
+  font-weight: bold;
+
+}
